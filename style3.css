@@ -1,0 +1,38 @@
+body {
+    background-color: azure;
+}
+header {
+
+    background-color: green;
+    
+    
+}
+#footer {
+    text-align: center;
+
+    
+    
+}
+nav  {
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+    
+    
+    background-color: green;
+
+    
+
+}
+
+main {
+    text-align: center;
+}
+#home {
+    text-align: left;
+}
+h1{
+    text-align: center;
+    
+}
